@@ -161,4 +161,4 @@ Read or watch:
 ---
 
 ## Author
-* **Joseph Mahiuha** - [Mahiuha](https://github.com/Mahiuha)
+* **Humfhrie** - [Mahiuha](https://github.com/Humfhrie)
